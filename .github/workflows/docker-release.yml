@@ -1,4 +1,4 @@
-name: Release Docker image to GitHub ghcr
+name: Release Docker image to GHCR
 
 on:
   push:
@@ -11,7 +11,7 @@ on:
 
 jobs:
   push_to_registry:
-    name: Push Docker image to GitHub ghcr
+    name: Push Docker image to GHCR
     runs-on: ubuntu-latest
 
     steps:

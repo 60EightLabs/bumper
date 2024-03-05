@@ -4,7 +4,7 @@ To download the image from Docker Hub you can run the following:
 
 `docker pull docker pull ghcr.io/60eightlabs/bumper:develop`
 
-[View Bumper on GitHub ghcr](https://github.com/60EightLabs/bumper/pkgs/container/bumper)
+[View Bumper on GHCR](https://github.com/60EightLabs/bumper/pkgs/container/bumper)
 
 ## Docker-compose
 
