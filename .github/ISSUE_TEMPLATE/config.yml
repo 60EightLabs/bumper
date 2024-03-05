@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
   - name: 🤔 I have a question or need support
-    url: https://github.com/MVladislav/bumper/discussions
+    url: https://github.com/60EightLabs/bumper/discussions
     about: This issue tracker is for bugs only, not general support questions. Please refer to our Discussions.
   - name: 🚀 Feature Request
-    url: https://github.com/MVladislav/bumper/discussions/new?category=feature-requests
+    url: https://github.com/60EightLabs/bumper/discussions/new?category=feature-requests
     about: Remember to search for existing feature requests and "up-vote" any you like.

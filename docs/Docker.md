@@ -2,9 +2,9 @@
 
 To download the image from Docker Hub you can run the following:
 
-`docker pull docker pull ghcr.io/mvladislav/bumper:develop`
+`docker pull docker pull ghcr.io/60eightlabs/bumper:develop`
 
-[View Bumper on GitHub ghcr](https://github.com/MVladislav/bumper/pkgs/container/bumper)
+[View Bumper on GitHub ghcr](https://github.com/60EightLabs/bumper/pkgs/container/bumper)
 
 ## Docker-compose
 
@@ -54,7 +54,7 @@ $docker-swarm-compose: aliased to DOCKER_BUILDKIT=1 docker compose config | sed 
 ## Build a Docker image
 
 To build the docker image yourself you can run the following:
-`docker build -t mvladislav/bumper .`
+`docker build -t 60eightlabs/bumper .`
 
 This requires Docker 17.09 or newer, but has also been tested with podman.
 
@@ -85,5 +85,5 @@ Optionally you can map existing directories for logs, data, and certs.
 **Full Example:**
 
 ```sh
-$docker run -it -e "BUMPER_ANNOUNCE_IP=X.X.X.X" -p 443:443 -p 8007:8007 -p 8883:8883 -p 5223:5223 -v /home/user/bumper/data:/bumper/data --name bumper mvladislav/bumper
+$docker run -it -e "BUMPER_ANNOUNCE_IP=X.X.X.X" -p 443:443 -p 8007:8007 -p 8883:8883 -p 5223:5223 -v /home/user/bumper/data:/bumper/data --name bumper 60eightlabs/bumper
 ```

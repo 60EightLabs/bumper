@@ -61,7 +61,7 @@ services:
         PY_VERSION: ${PY_VERSION:-3.12.2-alpine3.19}
         # https://hub.docker.com/_/alpine/tags
         ALPINE_VERSION: ${ALPINE_VERSION:-3.19}
-    image: ghcr.io/mvladislav/bumper:${VERSION_BUMPER:-develop}
+    image: ghcr.io/60eightlabs/bumper:${VERSION_BUMPER:-develop}
     <<: *basic
     deploy:
       <<: *basic-deploy

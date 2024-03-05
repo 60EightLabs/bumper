@@ -5,7 +5,7 @@ ARG PY_VERSION=3.12.2-alpine3.19
 ARG ALPINE_VERSION=3.19
 FROM ${ARCH}/python:${PY_VERSION}
 
-LABEL org.opencontainers.image.source=https://github.com/MVladislav/bumper
+LABEL org.opencontainers.image.source=https://github.com/60EightLabs/bumper
 LABEL org.opencontainers.image.description="bumper"
 LABEL org.opencontainers.image.licenses=GPLv3
 

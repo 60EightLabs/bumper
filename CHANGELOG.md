@@ -177,4 +177,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - .github removes
     - remove `md` files from `ISSUE_TEMPLATE`, replaced with new `yaml` templates
 
-[unreleased]: https://github.com/edenhaus/bumper/compare/dev...MVladislav:bumper:dev
+[unreleased]: https://github.com/MVladislav/bumper/compare/dev...60EightLabs:bumper:dev

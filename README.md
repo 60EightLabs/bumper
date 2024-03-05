@@ -1,10 +1,10 @@
 # Bumper
 
 ![License GPLv3](https://img.shields.io/github/license/bmartin5692/bumper.svg?color=brightgreen)
-[![Python code quality, tests and docker deploy](https://github.com/MVladislav/bumper/actions/workflows/ci.yml/badge.svg)](https://github.com/MVladislav/bumper/actions/workflows/ci.yml)
-[![CodeQL](https://github.com/MVladislav/bumper/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/MVladislav/bumper/actions/workflows/codeql-analysis.yml)
-[![codecov](https://codecov.io/gh/MVladislav/bumper/graph/badge.svg?token=8N89730Z1S)](https://codecov.io/gh/MVladislav/bumper)
-[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/MVladislav/bumper/dev.svg)](https://results.pre-commit.ci/latest/github/MVladislav/bumper/dev)
+[![Python code quality, tests and docker deploy](https://github.com/60EightLabs/bumper/actions/workflows/ci.yml/badge.svg)](https://github.com/60EightLabs/bumper/actions/workflows/ci.yml)
+[![CodeQL](https://github.com/60EightLabs/bumper/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/60EightLabs/bumper/actions/workflows/codeql-analysis.yml)
+[![codecov](https://codecov.io/gh/60EightLabs/bumper/graph/badge.svg?token=8N89730Z1S)](https://codecov.io/gh/60EightLabs/bumper)
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/60EightLabs/bumper/dev.svg)](https://results.pre-commit.ci/latest/github/60EightLabs/bumper/dev)
 
 ---
 
@@ -28,7 +28,7 @@
 
 ---
 
-**Forked from [edenhaus](https://github.com/edenhaus/bumper) -> [bmartin5692](https://github.com/bmartin5692/bumper)**
+**Forked from [edenhaus](https://github.com/edenhaus/bumper) -> [bmartin5692](https://github.com/bmartin5692/bumper) -> [MVladislav](https://github.com/MVladislav/bumper)**
 
 ---
 
@@ -223,6 +223,7 @@ clean logs are accessible without credentials by url:
 
 - <https://github.com/bmartin5692/bumper>
 - <https://github.com/edenhaus/bumper>
+- <https://github.com/MVladislav/bumper>
 - <https://github.com/Yakifo/amqtt>
 
 ---

@@ -22,6 +22,7 @@ authors = [
   { name = "Brian Martin" },
   { name = "Robert Resch" },
   { name = "MVladislav" },
+  { name = "60EightLabs" },
 ]
 
 dependencies = [
